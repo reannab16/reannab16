@@ -1,15 +1,20 @@
 ### Hi there! I'm Reanna 🙈
 
-<div className="flex flex-row w-full items-center justify-center">
+<table border="0">
+ <tr>
+	<b style="font-size:30px">Frontend Developer based in London!</b>
+ </tr>
+ <tr>
+	 <img src="hi.GIF" height="300" width="300" align="right"/>
+ </tr>
+</table>
+
   <div align="left">
     <div>console.log(stack)</div>
     <div>HTML/CSS, JavaScript/TS, React, Next.js, Tailwind, Three.js, Flutter, Git, Python</div>
     <div>console.log(hobbies)</div>
     <div>painting/art, dancing, gym</div>
   </div>
-  <img src="hi.GIF" height="300" width="300" align="right"/>
-  
-</div>
 
 
 <div align="center">
