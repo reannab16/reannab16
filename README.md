@@ -1,7 +1,13 @@
 ### Hi there! I'm Reanna 🙈
 
-<div align="left" className="text-base">
-  I'm a frontend developer based in London! <br/> 
+<div className="flex flex-row w-full items-center justify-center">
+  <div>
+    <div>console.log(stack)</div>
+    <div>HTML/CSS, JavaScript/TS, React, Next.js, Tailwind, Three.js, Flutter, Git, Python</div>
+    <div>console.log(hobbies)</div>
+    <div>painting/art, dancing, gym</div>
+  </div>
+  <img src="readmeimgs/hi.GIF">
 </div>
 
 
