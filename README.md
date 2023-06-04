@@ -7,7 +7,7 @@
     <div>console.log(hobbies)</div>
     <div>painting/art, dancing, gym</div>
   </div>
-  <img src="hi.GIF" height="500" width="500" align="right"/>
+  <img src="hi.GIF" height="300" width="300" align="right"/>
   
 </div>
 
