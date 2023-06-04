@@ -10,8 +10,10 @@
 </table>
 
 ```javascript
-console.log(myStack= [HTML/CSS, JavaScript/TS, React, Next.js, Tailwind, Three.js, Flutter, Git, Python]
+console.log(myStack)
+[HTML/CSS, JavaScript/TS, React, Next.js, Tailwind, Three.js, Flutter, Git, Python]
 ```
+
 
 
 <div align="center">
