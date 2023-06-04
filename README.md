@@ -1,5 +1,8 @@
 ### Hi there! I'm Reanna 🙈
-### I'm a Front End Developer based in London.
+
+<div align="center" className="text-base">
+  I'm a frontend developer based in London! <br/> 
+</div>
 
 
 <div align="center">
