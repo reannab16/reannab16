@@ -12,6 +12,8 @@
 ```javascript
 console.log(myStack)
 [HTML/CSS, JavaScript/TS, React, Next.js, Tailwind, Three.js, Flutter, Git, Python]
+console.log(myHobbies)
+[art/painting, dancing, gym]
 ```
 
 
