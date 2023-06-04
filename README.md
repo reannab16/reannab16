@@ -1,13 +1,13 @@
 ### Hi there! I'm Reanna 🙈
 
-<div className="flex flex-row w-full items-center justify-center" align="center">
-  <div>
+<div className="flex flex-row w-full items-center justify-center">
+  <div align="left">
     <div>console.log(stack)</div>
     <div>HTML/CSS, JavaScript/TS, React, Next.js, Tailwind, Three.js, Flutter, Git, Python</div>
     <div>console.log(hobbies)</div>
     <div>painting/art, dancing, gym</div>
   </div>
-  <img src="hi.GIF" height="100" width="100"/>
+  <img src="hi.GIF" height="100" width="100" align="right"/>
   
 </div>
 
