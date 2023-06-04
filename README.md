@@ -1,6 +1,6 @@
 ### Hi there! I'm Reanna 🙈
 
-<div align="center" className="text-base">
+<div align="left" className="text-base">
   I'm a frontend developer based in London! <br/> 
 </div>
 
