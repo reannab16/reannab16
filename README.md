@@ -5,7 +5,7 @@
 	<b style="font-size:30px">Frontend Developer based in London!</b>
  </tr>
  <tr>
-	 <img src="hi.GIF" width="250" align="right"/>
+	 <img src="hi.GIF" width="230" align="right"/>
  </tr>
 </table>
 
