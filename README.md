@@ -24,6 +24,6 @@ console.log(myHobbies)
   <img height="150em" src="https://github-readme-stats-three-sepia.vercel.app/api/top-langs/?username=reannab16&layout=compact&exclude_repo=github-readme-stats&hide_border=true&bg_color=ffffff00&text_color=4EB18D&title_color=ff7b72&icon_color=4B2C2F" />
 </div>
 
-<div align="right">
-	<img src="hihi.PNG" height="200" align="right"/>
+<div align="center">
+	<img src="hihi.PNG" height="200" align="center"/>
 </div>
