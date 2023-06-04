@@ -9,12 +9,9 @@
  </tr>
 </table>
 
-  <div align="left">
-    <div>console.log(stack)</div>
-    <div>HTML/CSS, JavaScript/TS, React, Next.js, Tailwind, Three.js, Flutter, Git, Python</div>
-    <div>console.log(hobbies)</div>
-    <div>painting/art, dancing, gym</div>
-  </div>
+```javascript
+console.log(myStack= [HTML/CSS, JavaScript/TS, React, Next.js, Tailwind, Three.js, Flutter, Git, Python]
+```
 
 
 <div align="center">
