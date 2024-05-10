@@ -13,7 +13,7 @@
 console.log(myStack)
 >['HTML/CSS', 'JavaScript/TS', 'React', 'Next.js', 
   'Tailwind', 'Three.js', 'Flutter', 'Git', 'Python',
-  'Golang, Node.js']
+  'Golang, Node.js', 'Redux', 'MongoDB']
 console.log(myHobbies)
 >['art/painting', 'dancing', 'gym']
 ```
