@@ -12,7 +12,8 @@
 ```javascript
 console.log(myStack)
 >['HTML/CSS', 'JavaScript/TS', 'React', 'Next.js', 
-  'Tailwind', 'Three.js', 'Flutter', 'Git', 'Python']
+  'Tailwind', 'Three.js', 'Flutter', 'Git', 'Python',
+  'Golang, Node.js']
 console.log(myHobbies)
 >['art/painting', 'dancing', 'gym']
 ```
